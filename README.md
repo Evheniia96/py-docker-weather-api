@@ -37,3 +37,6 @@ So in this task requirements are next:
 </details>
 
 ### Note: Check your code using this [checklist](checklist.md) before pushing your solution.
+
+db structed:
+![Image alt](https://github.com/Evheniia96/py-docker-weather-api/raw/main/bd_structed_api.png)
